@@ -1,0 +1,1 @@
+"{\n  \"headers\": {\n    \"accept\": \"application/json\",\n    \"header\": \"\"\n  },\n  \"responseStatusCode\": \"200\",\n  \"responseValue\": {\n    \"code\": 200,\n    \"type\": \"unknown\",\n    \"message\": 1\n  },\n  \"responseSchema\": \"\",\n  \"pathParam\": {\n    \"orderId\": 3\n  }\n}"
