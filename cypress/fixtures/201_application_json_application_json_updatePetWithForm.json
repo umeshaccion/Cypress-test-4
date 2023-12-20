@@ -1,0 +1,1 @@
+"{\n  \"headers\": {\n    \"Content-Type\": \"application/json\",\n    \"accept\": \"application/json\",\n    \"header\": \"\"\n  },\n  \"responseStatusCode\": \"201\",\n  \"responseValue\": {\n    \"code\": 201,\n    \"type\": \"unknown\",\n    \"message\": \"updated succesfully\"\n  },\n  \"responseSchema\": \"\",\n  \"pathParam\": {\n    \"petId\": 1\n  }\n}"

@@ -1,0 +1,1 @@
+"{\n  \"headers\": {\n    \"accept\": \"application/json\",\n    \"header\": \"special-key\"\n  },\n  \"responseStatusCode\": \"200\",\n  \"responseValue\": {\n    \"code\": 201,\n    \"type\": \"unknown\",\n    \"message\": 1\n  },\n  \"responseSchema\": \"\",\n  \"header\": {},\n  \"queryParam\": {\n    \"petId\": 1234\n  }\n}"
