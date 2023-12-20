@@ -1,0 +1,1 @@
+"{\n  \"headers\": {\n    \"accept\": \"application/json\"\n  },\n  \"responseStatusCode\": \"200\",\n  \"responseValue\": {\n    \"code\": 200,\n    \"type\": \"unknown\",\n    \"message\": \"logged in user session:1684921725673\"\n  },\n  \"responseSchema\": {\n    \"type\": \"string\"\n  }\n}"
