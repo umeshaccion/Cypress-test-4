@@ -1,9 +1,25 @@
 {
     "headers": {
-        "accept": "application/xml",
+        "accept": "application/json",
         "header": ""
     },
     "responseStatusCode": "200",
+    "responseValue": {
+        "id": 1,
+        "catrgory": {
+            "id": 1,
+            "name": "German shepard"
+        },
+        "name": "Bruno",
+        "photoUrls": ["https://germanshepard/burno.jpg"],
+        "tags": [
+            {
+                "id": 1,
+                "name": "Tommy"
+            }
+        ],
+        "status": "available"
+    },
     "responseSchema": {
         "type": "array",
         "items": {
@@ -78,6 +94,6 @@
         }
     },
     "queryParam": {
-        "tags": "tag1"
+        "status": "available"
     }
 }
